@@ -1,4 +1,5 @@
 IRCChat Application
+===========
 Internet Relay Chat an application that lets multiple users communicate via text messages with each other in common virtual rooms. The server handles multiple client connections through select based multiplexing.
 
 Pre-requisite:
